@@ -1,0 +1,15 @@
+{
+	"name": "adfnycpayroll-paulo-z",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2ca4686-2f7e-4ae8-91be-e8caa9639cf1",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
